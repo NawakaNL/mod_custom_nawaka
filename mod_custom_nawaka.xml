@@ -31,7 +31,9 @@
 					<option value="1">JYES</option>
 					<option value="0">JNO</option>
 				</field>
-
+				<field name="color" type="color" default="#010050"
+						label="Kleur"
+						description="Kleur" />
 				<field
 					name="backgroundimage"
 					type="media"
