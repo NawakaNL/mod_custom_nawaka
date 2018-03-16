@@ -1,0 +1,13 @@
+.custom-nawaka .custom-nawaka-title {
+  background: none;
+  background-color: #010050;
+  font-weight: bold;
+  color: white;
+  padding: 5px 10px
+}
+
+.custom-nawaka .custom-nawaka-content {
+  border: 1px solid #a8c7e0;
+  border-top: none;
+  padding: 8px;
+}
