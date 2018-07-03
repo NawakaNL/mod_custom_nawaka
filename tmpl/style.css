@@ -11,3 +11,29 @@
   border-top: none;
   padding: 8px;
 }
+
+.custom-nawaka ul {
+  margin: 0 0 0 0 !important;
+}
+
+.custom-nawaka ul li {
+  padding-left: 0px;
+}
+
+.custom-nawaka ul li a {
+  background-image: none !important;
+  padding: 10px 0px !important;
+  margin: 0px 0px !important;
+  max-height: 40px;
+}
+
+.custom-nawaka ul li a:hover {
+  color: #1a268d !important;
+  text-decoration: underline !important;
+}
+
+.custom-nawaka ul li a span.label {
+  font-size: 12px;
+  float: right !important;
+  margin-right: 5px;
+}
