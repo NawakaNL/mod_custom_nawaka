@@ -9,7 +9,10 @@
 .custom-nawaka .custom-nawaka-content {
   border: 1px solid #a8c7e0;
   border-top: none;
-  padding: 8px;
+}
+
+.custom-nawaka .custom-nawaka-content p {
+  margin: 8px;
 }
 
 .custom-nawaka ul {
