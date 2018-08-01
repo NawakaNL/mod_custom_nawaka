@@ -12,7 +12,8 @@
 }
 
 .custom-nawaka .custom-nawaka-content p {
-  margin: 8px;
+  padding: 8px;
+  padding-bottom: -18px;
 }
 
 .custom-nawaka ul {
